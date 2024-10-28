@@ -1,4 +1,14 @@
 .static-box{
     position: static;
     background-color: blueviolet;
+    height:100px;
+    width:100px;
+}
+.relative-box{
+    position:relative;
+    background-color: aqua;
+    top:20px;
+    left:30px;
+    height:100px;
+    width:100px;
 }
