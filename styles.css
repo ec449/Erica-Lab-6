@@ -41,4 +41,10 @@
     height:200px;
     width:200px;
 }
-
+.background-image-repeat{
+    height:300px;
+    width:300px;
+    background-size: 100%;
+    background-repeat:repeat;
+    background-image: url("https://hips.hearstapps.com/hmg-prod/images/dog-puppy-on-garden-royalty-free-image-1586966191.jpg");
+}
