@@ -100,4 +100,33 @@
     background-color: rgb(219, 129, 144);
     flex-wrap: wrap;
 }
+#flexcontainer5{
+    display: flex;
+    border:2px,solid,black;
+    height:200px;
+    width:300px;
+    background-color: rgb(114, 206, 186);
+    align-items: center;
+}
+#childdiv1{
+    display:flex;
+    background-color: chocolate;
+    border:2px,solid,black;
+    height: 60px;
+    width:60px;
+}
+#childdiv2{
+    display: flex;
+    background-color: rgb(251, 253, 255);
+    border:2px,solid,black;
+    height: 100px;
+    width:100px;
+}
+#childdiv3{
+    display: flex;
+    background-color: rgb(19, 255, 109);
+    border:2px,solid,black;
+    height: 80px;
+    width:80px;
+}
 
