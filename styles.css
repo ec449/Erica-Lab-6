@@ -108,6 +108,13 @@
     background-color: rgb(114, 206, 186);
     align-items: center;
 }
+#flexcontainer6{
+    display: flex;
+    border:2px,solid,black;
+    height:300px;
+    width:300px;
+    align-content: space-between;
+}
 #childdiv1{
     display:flex;
     background-color: chocolate;
@@ -129,4 +136,24 @@
     height: 80px;
     width:80px;
 }
-
+.flexitems{
+    flex:100px;
+    text-align: center;
+    background-color: chocolate;
+    border:2px,solid,black;
+}
+#flexcontainer7{
+    display: flex;
+    border:2px,solid,black;
+    height:300px;
+    width:300px;
+}
+.childdiv71{
+    display: flex;
+    border:2px,solid,black
+}
+.childdiv72{
+    display: flex;
+    border:2px,solid,black;
+    flex-grow:2;
+}
